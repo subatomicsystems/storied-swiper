@@ -1,6 +1,6 @@
 {
   "name": "storied-swiper",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Storied modified fork of idangerous swiper.js library.",
   "main": "swiper.js",
   "scripts": {
